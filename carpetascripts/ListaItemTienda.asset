@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55d0c1d8c2ce61849b6f24c326637817, type: 3}
+  m_Name: ListaItemTienda
+  m_EditorClassIdentifier: 
+  baseDatos:
+  - Nombre: Sombrero
+    ID: 0
+    icono: {fileID: 21300000, guid: b2984b8f337a597409822232f400097b, type: 3}
+    precio: 50
+    clase: 0
+    tipo: 0
+    acumulable: 0
+    descripcion: Sombrero
+    Void: Sombrero
+  - Nombre: PelotaBaloncesto
+    ID: 1
+    icono: {fileID: 21300000, guid: 9c7b753c4b53db94ba496599837ada08, type: 3}
+    precio: 50
+    clase: 1
+    tipo: 1
+    acumulable: 0
+    descripcion: Pelota
+    Void: Pelota
+  - Nombre: PelotaFutbol
+    ID: 2
+    icono: {fileID: 21300000, guid: fc6977d14a2d02043bde78887a41ad8e, type: 3}
+    precio: 50
+    clase: 1
+    tipo: 1
+    acumulable: 0
+    descripcion: Pelota
+    Void: Pelota
+  - Nombre: SombreroFiesta
+    ID: 3
+    icono: {fileID: 21300000, guid: b6b2361fab4dea94f88b645ee12cc792, type: 3}
+    precio: 50
+    clase: 0
+    tipo: 0
+    acumulable: 0
+    descripcion: SombreroFiesta
+    Void: SombreroFiesta
+  - Nombre: Liston
+    ID: 4
+    icono: {fileID: 21300000, guid: 020bffe9528b04649afbf3753052d068, type: 3}
+    precio: 50
+    clase: 0
+    tipo: 0
+    acumulable: 0
+    descripcion: Liston
+    Void: Liston
